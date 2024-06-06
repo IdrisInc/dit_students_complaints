@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dit_students_complaints</string>
+    <string name="start_text">Welcome! Ready To Begin With Us.</string>
+    <string name="my_image_description">Description of the image</string>
+    <string name="str_txt">This is a platform where students can freely open up about their issues. Let's work towards making a better tomorrow!</string>
+    <string name="btn_srt">LET'S GET YOU STARTED!</string>
+</resources>
